@@ -1,8 +1,8 @@
-## Hello, Welcome to my Github 👋
+## Hello, Welcome to my Github ⭐🌠
 
 I am Vaisakh Rajeev! (aka R.Vaisakh or Rajeev Vaisakh officially)
 
-I am a PhD student in Astrophysics, passionate about exploring the universe through computational methods, data analysis, and theoretical modeling. My research focuses on Observational Cosmology - probing the cosmic expansion of the Nearby and Distant Universe.
+I am a PhD student in Astrophysics @ Southern Methodist University, Dallas, Texas - passionate about exploring the universe through computational methods, data analysis, and theoretical modeling. My research focuses on Observational Cosmology - probing the cosmic expansion of the Nearby and Distant Universe.
 
 Research Interests
 
