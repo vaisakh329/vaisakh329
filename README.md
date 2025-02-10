@@ -39,7 +39,7 @@ Skills & Tools
 
 📬 Get in Touch
 
-✉ Email: [vvaisakh@smu.edu, vvaisakh96@gmail.com]
+✉ Email: [vvaisakh@smu.edu, vaisakh96@gmail.com]
 
 <!--🌍 Website: [YourWebsite.com]
 
